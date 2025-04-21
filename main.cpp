@@ -10,6 +10,7 @@ int main() {
  
 
     while (true) {
+    	
         char input = getchar(); // Read input
         while (getchar() != '\n'); // Clear input 
 
